@@ -1,3 +1,4 @@
+window.open("https://www.blooket.com/account", "", "noreferrer=yes");
 function createTextArea() {
   token = localStorage.token;
   var x = document.createElement("TEXTAREA");
